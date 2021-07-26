@@ -20,8 +20,8 @@
 使用微信开发者工具打开项目进行运行与开发
 
 ## 截图
-![p1](/image/jt1.jpg)
-![p2](/image/jt2.jpg)
+![p1](./image/jt1.jpg)
+![p2](./image/jt2.jpg)
 
 ## Contribution
 RuShi
