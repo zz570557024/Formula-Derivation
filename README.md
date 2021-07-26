@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # FormulaDerivation
 微信小程序计算器
 =======
@@ -19,4 +18,3 @@
 
 > 作者：RuShi
 > MIT 2021
->>>>>>> Stashed changes
