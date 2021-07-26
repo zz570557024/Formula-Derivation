@@ -29,6 +29,6 @@
 		</view>
 	</view>
 	<view class="weui-footer">
-		<view class="weui-footer__text">Copyright © 2020-2025 试飞中心 <text class="name_text">RuShi</text>  <text class="link_text" bindtap="haveTea">  ❤赞赏</text></view>
+		<view class="weui-footer__text">Copyright <text class="name_text">RuShi</text>  <text class="link_text" bindtap="haveTea">  ❤赞赏</text></view>
 	</view>
 </view>
