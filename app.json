@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/finance/finance",
+    "pages/logs/logs",
+    "pages/finance/unit/unit",
+    "pages/finance/speed/speed",
+    "pages/finance/temperature/temperature",
+    "pages/finance/pressure/pressure",
+    "pages/finance/plane/plane",
+    "pages/finance/height/height",
+    "pages/finance/atm/atm",
+    "pages/pay/pay"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#3369E8",
+    "backgroundTextStyle": "dark",
+    "backgroundColor": "#f8f8f8",
+    "navigationBarTitleText": "Finance"
+  },
+  "sitemapLocation": "sitemap.json"
+}

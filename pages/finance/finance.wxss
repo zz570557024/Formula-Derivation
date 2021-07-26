@@ -1,0 +1,32 @@
+/* pages/finance/finance.wxss */
+.page__bd {
+  padding-bottom: 10px;
+}
+/* .page__bd,
+.weui-grid__label {
+  color: #1AAD19;
+  color: #3369E8;
+} */
+
+.weui-grid__label {
+  /* font-family: initial; */
+  font-size: 18px;
+}
+
+.weui-footer {
+  padding: 15px;
+}
+
+.link_text {
+  color: #576B95;
+}
+
+.name_text {
+  font-weight: bold;
+}
+
+image {
+  width: 100%;
+  height: 128px;
+  display: block;
+}

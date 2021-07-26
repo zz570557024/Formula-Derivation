@@ -1,0 +1,44 @@
+/* pages/wuxian-yijin/wxyj.wxss */
+
+.warn-tail {
+  font-size: 12px;
+  color: darkorange;
+}
+
+.weui-label {
+  width: auto;
+}
+
+.baseline-explanation {
+  padding: 10px;
+  /* border:1px solid #333; */
+}
+
+.table {
+  /* background: #EBEBEB; */
+  font-size: 15px;
+  padding: 10px 10px;
+  text-align: center;
+  /* color: #6e6e6e; */
+}
+.table .weui-flex {
+  padding: 15px 0;
+}
+.table .weui-flex + .weui-flex {
+  border-top: 1px dashed #cfcfcf;
+}
+.table .weui-flex:last-child {
+  padding-top: 0px;
+  font-size: 12px;
+  color: #353535;
+}
+.weui-btn {
+  background-color: #3369E8 !important;
+}
+.weui-btn-area {
+  margin-top: 15px 25px .3em;
+}
+
+.weui-cell::before {
+  left: 0px;
+}

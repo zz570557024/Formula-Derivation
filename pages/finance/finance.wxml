@@ -1,0 +1,34 @@
+<view class="page">
+	<view>
+		<image src="../../image/c1.jpg"></image>
+	</view>
+	<view class="page__bd">
+		<view class="weui-grids">
+			<navigator url="height/height" class="weui-grid" hover-class="weui-grid_active" style="width: 100%;height: 75px;padding: 20px 10px;">
+				<view class="weui-grid__label">✈ 表速、真速、马赫数</view>
+			</navigator>
+			<navigator url="plane/plane" class="weui-grid" hover-class="weui-grid_active" style="width: 100%;height: 75px;padding: 20px 10px;">
+				<view class="weui-grid__label">✈ 动压、静压</view>
+			</navigator>
+			<navigator url="atm/atm" class="weui-grid" hover-class="weui-grid_active" style="width: 100%;height: 75px;padding: 20px 10px;">
+				<!-- <image class="weui-grid__icon" src="../../image/weui/icon_tabbar.png" /> -->
+				<view class="weui-grid__label">✈ 标准大气</view>
+			</navigator>
+			<navigator url="unit/unit" class="weui-grid" hover-class="weui-grid_active" style="width: 100%;height: 75px;padding: 20px 10px;">
+				<view class="weui-grid__label">✈ 长度</view>
+			</navigator>
+			<navigator url="speed/speed" class="weui-grid" hover-class="weui-grid_active" style="width: 100%;height: 75px;padding: 20px 10px;">
+				<view class="weui-grid__label">✈ 速度</view>
+			</navigator>
+			<navigator url="temperature/temperature" class="weui-grid" hover-class="weui-grid_active" style="width: 100%;height: 75px;padding: 20px 10px;">
+				<view class="weui-grid__label">✈ 温度</view>
+			</navigator>
+			<navigator url="pressure/pressure" class="weui-grid" hover-class="weui-grid_active" style="width: 100%;height: 75px;padding: 20px 10px;">
+				<view class="weui-grid__label">✈ 压力</view>
+			</navigator>
+		</view>
+	</view>
+	<view class="weui-footer">
+		<view class="weui-footer__text">Copyright © 2020-2025 试飞中心 <text class="name_text">RuShi</text>  <text class="link_text" bindtap="haveTea">  ❤赞赏</text></view>
+	</view>
+</view>

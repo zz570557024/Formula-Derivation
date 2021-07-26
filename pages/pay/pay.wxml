@@ -1,0 +1,7 @@
+<!--pages/pay/pay.wxml-->
+<view>
+	<view class="pay_text">送杯奶茶</view>
+	<view class="pay" bindtap="preview">
+		<image src="/image/nice.png" class="pay_picture"></image>
+	</view>
+</view>

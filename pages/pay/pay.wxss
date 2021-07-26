@@ -1,0 +1,19 @@
+/* pages/pay/pay.wxss */
+.pay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pay_text {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 20px;
+  color: red;
+}
+
+.pay_picture {
+  width: 400px;
+  height: 400px;
+}
